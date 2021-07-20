@@ -85,4 +85,3 @@ MySQL, Postgres, Oracle, MongodDB
 
 #### DevOPS
 Ansible, GitlabCI, Github Actions, Jenkins, Kubernetes, Openshift
-{"mode":"full","isActive":false}
